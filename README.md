@@ -1,4 +1,4 @@
-# AES-128 Implementation in C
+# AES-128
 
 ![Language](https://img.shields.io/badge/language-C-blue.svg)
 
